@@ -1,0 +1,430 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-10 11:41+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#: .\django_movie\templates\account\account_inactive.html:5
+#: .\django_movie\templates\account\account_inactive.html:8
+msgid "Account Inactive"
+msgstr ""
+
+#: .\django_movie\templates\account\account_inactive.html:10
+msgid "This account is inactive."
+msgstr ""
+
+#: .\django_movie\templates\account\email.html:5
+msgid "Account"
+msgstr ""
+
+#: .\django_movie\templates\account\email.html:8
+msgid "E-mail Addresses"
+msgstr ""
+
+#: .\django_movie\templates\account\email.html:10
+msgid "The following e-mail addresses are associated with your account:"
+msgstr ""
+
+#: .\django_movie\templates\account\email.html:24
+msgid "Verified"
+msgstr ""
+
+#: .\django_movie\templates\account\email.html:26
+msgid "Unverified"
+msgstr ""
+
+#: .\django_movie\templates\account\email.html:28
+msgid "Primary"
+msgstr ""
+
+#: .\django_movie\templates\account\email.html:34
+msgid "Make Primary"
+msgstr ""
+
+#: .\django_movie\templates\account\email.html:35
+msgid "Re-send Verification"
+msgstr ""
+
+#: .\django_movie\templates\account\email.html:36
+msgid "Remove"
+msgstr ""
+
+#: .\django_movie\templates\account\email.html:43
+msgid "Warning:"
+msgstr ""
+
+#: .\django_movie\templates\account\email.html:43
+msgid ""
+"You currently do not have any e-mail address set up. You should really add "
+"an e-mail address so you can receive notifications, reset your password, etc."
+msgstr ""
+
+#: .\django_movie\templates\account\email.html:48
+msgid "Add E-mail Address"
+msgstr ""
+
+#: .\django_movie\templates\account\email.html:53
+msgid "Add E-mail"
+msgstr ""
+
+#: .\django_movie\templates\account\email.html:62
+msgid "Do you really want to remove the selected e-mail address?"
+msgstr ""
+
+#: .\django_movie\templates\account\email_confirm.html:6
+#: .\django_movie\templates\account\email_confirm.html:10
+msgid "Confirm E-mail Address"
+msgstr ""
+
+#: .\django_movie\templates\account\email_confirm.html:16
+#, python-format
+msgid ""
+"Please confirm that <a href=\"mailto:%(email)s\">%(email)s</a> is an e-mail "
+"address for user %(user_display)s."
+msgstr ""
+
+#: .\django_movie\templates\account\email_confirm.html:20
+msgid "Confirm"
+msgstr ""
+
+#: .\django_movie\templates\account\email_confirm.html:27
+#, python-format
+msgid ""
+"This e-mail confirmation link expired or is invalid. Please <a href="
+"\"%(email_url)s\">issue a new e-mail confirmation request</a>."
+msgstr ""
+
+#: .\django_movie\templates\account\login.html:7
+#: .\django_movie\templates\account\login.html:11
+#: .\django_movie\templates\account\login.html:44
+msgid "Sign In"
+msgstr ""
+
+#: .\django_movie\templates\account\login.html:16
+#, python-format
+msgid ""
+"Please sign in with one\n"
+"of your existing third party accounts. Or, <a href=\"%(signup_url)s\">sign "
+"up</a>\n"
+"for a %(site_name)s account and sign in below:"
+msgstr ""
+
+#: .\django_movie\templates\account\login.html:26
+msgid "or"
+msgstr ""
+
+#: .\django_movie\templates\account\login.html:33
+#, python-format
+msgid ""
+"If you have not created an account yet, then please\n"
+"<a href=\"%(signup_url)s\">sign up</a> first."
+msgstr ""
+
+#: .\django_movie\templates\account\login.html:43
+msgid "Forgot Password?"
+msgstr ""
+
+#: .\django_movie\templates\account\logout.html:5
+#: .\django_movie\templates\account\logout.html:8
+#: .\django_movie\templates\account\logout.html:17
+msgid "Sign Out"
+msgstr ""
+
+#: .\django_movie\templates\account\logout.html:10
+msgid "Are you sure you want to sign out?"
+msgstr ""
+
+#: .\django_movie\templates\account\password_change.html:5
+#: .\django_movie\templates\account\password_change.html:8
+#: .\django_movie\templates\account\password_change.html:13
+#: .\django_movie\templates\account\password_reset_from_key.html:4
+#: .\django_movie\templates\account\password_reset_from_key.html:7
+#: .\django_movie\templates\account\password_reset_from_key_done.html:4
+#: .\django_movie\templates\account\password_reset_from_key_done.html:7
+msgid "Change Password"
+msgstr ""
+
+#: .\django_movie\templates\account\password_reset.html:6
+#: .\django_movie\templates\account\password_reset.html:10
+#: .\django_movie\templates\account\password_reset_done.html:6
+#: .\django_movie\templates\account\password_reset_done.html:9
+msgid "Password Reset"
+msgstr ""
+
+#: .\django_movie\templates\account\password_reset.html:15
+msgid ""
+"Forgotten your password? Enter your e-mail address below, and we'll send you "
+"an e-mail allowing you to reset it."
+msgstr ""
+
+#: .\django_movie\templates\account\password_reset.html:20
+msgid "Reset My Password"
+msgstr ""
+
+#: .\django_movie\templates\account\password_reset.html:23
+msgid "Please contact us if you have any trouble resetting your password."
+msgstr ""
+
+#: .\django_movie\templates\account\password_reset_done.html:15
+msgid ""
+"We have sent you an e-mail. Please contact us if you do not receive it "
+"within a few minutes."
+msgstr ""
+
+#: .\django_movie\templates\account\password_reset_from_key.html:7
+msgid "Bad Token"
+msgstr ""
+
+#: .\django_movie\templates\account\password_reset_from_key.html:11
+#, python-format
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used.  Please request a <a href=\"%(passwd_reset_url)s\">new password reset</"
+"a>."
+msgstr ""
+
+#: .\django_movie\templates\account\password_reset_from_key.html:17
+msgid "change password"
+msgstr ""
+
+#: .\django_movie\templates\account\password_reset_from_key.html:20
+#: .\django_movie\templates\account\password_reset_from_key_done.html:8
+msgid "Your password is now changed."
+msgstr ""
+
+#: .\django_movie\templates\account\password_set.html:5
+#: .\django_movie\templates\account\password_set.html:8
+#: .\django_movie\templates\account\password_set.html:13
+msgid "Set Password"
+msgstr ""
+
+#: .\django_movie\templates\account\signup.html:5
+msgid "Signup"
+msgstr ""
+
+#: .\django_movie\templates\account\signup.html:8
+#: .\django_movie\templates\account\signup.html:18
+msgid "Sign Up"
+msgstr ""
+
+#: .\django_movie\templates\account\signup.html:10
+#, python-format
+msgid ""
+"Already have an account? Then please <a href=\"%(login_url)s\">sign in</a>."
+msgstr ""
+
+#: .\django_movie\templates\account\signup_closed.html:5
+#: .\django_movie\templates\account\signup_closed.html:8
+msgid "Sign Up Closed"
+msgstr ""
+
+#: .\django_movie\templates\account\signup_closed.html:10
+msgid "We are sorry, but the sign up is currently closed."
+msgstr ""
+
+#: .\django_movie\templates\account\snippets\already_logged_in.html:5
+msgid "Note"
+msgstr ""
+
+#: .\django_movie\templates\account\snippets\already_logged_in.html:5
+#, python-format
+msgid "you are already logged in as %(user_display)s."
+msgstr ""
+
+#: .\django_movie\templates\account\verification_sent.html:5
+#: .\django_movie\templates\account\verification_sent.html:8
+#: .\django_movie\templates\account\verified_email_required.html:5
+#: .\django_movie\templates\account\verified_email_required.html:8
+msgid "Verify Your E-mail Address"
+msgstr ""
+
+#: .\django_movie\templates\account\verification_sent.html:10
+msgid ""
+"We have sent an e-mail to you for verification. Follow the link provided to "
+"finalize the signup process. Please contact us if you do not receive it "
+"within a few minutes."
+msgstr ""
+
+#: .\django_movie\templates\account\verified_email_required.html:12
+msgid ""
+"This part of the site requires us to verify that\n"
+"you are who you claim to be. For this purpose, we require that you\n"
+"verify ownership of your e-mail address. "
+msgstr ""
+
+#: .\django_movie\templates\account\verified_email_required.html:16
+msgid ""
+"We have sent an e-mail to you for\n"
+"verification. Please click on the link inside this e-mail. Please\n"
+"contact us if you do not receive it within a few minutes."
+msgstr ""
+
+#: .\django_movie\templates\account\verified_email_required.html:20
+#, python-format
+msgid ""
+"<strong>Note:</strong> you can still <a href=\"%(email_url)s\">change your e-"
+"mail address</a>."
+msgstr ""
+
+#: .\django_movie\templates\contact\tags\form.html:3
+msgid "Рассылка новинок кино"
+msgstr "New movies newsletter"
+
+#: .\django_movie\templates\contact\tags\form.html:7
+msgid ""
+"Подписавшись на нашу email рассылку вы всегда будете в курсе новинок кино на "
+"сайте."
+msgstr "By subscribing to our email newsletter you will always be up to date with new movies on out site"
+
+#: .\django_movie\templates\include\footer.html:21
+msgid "Мы в соцсетях"
+msgstr "Catch on Social"
+
+#: .\django_movie\templates\include\footer.html:54
+msgid "Разделы"
+msgstr "Sections"
+
+#: .\django_movie\templates\include\footer.html:58
+msgid "Главная"
+msgstr "Home"
+
+#: .\django_movie\templates\include\footer.html:61
+msgid "Категории"
+msgstr "Categories"
+
+#: .\django_movie\templates\include\footer.html:64
+msgid "Контакты"
+msgstr "Contacts"
+
+#: .\django_movie\templates\include\footer.html:72
+msgid "Страницы"
+msgstr "Pages"
+
+#: .\django_movie\templates\include\footer.html:106
+msgid "Местоположение"
+msgstr "Location"
+
+#: .\django_movie\templates\include\footer.html:107
+msgid "Украина, Одесса"
+msgstr "Ukraine, Odessa"
+
+#: .\django_movie\templates\include\sidebar.html:4
+msgid "Поиск фильма"
+msgstr "Search movie"
+
+#: .\django_movie\templates\include\sidebar.html:15
+msgid "Жанры"
+msgstr "Genres"
+
+#: .\django_movie\templates\include\sidebar.html:28
+msgid "Год"
+msgstr "Year"
+
+#: .\django_movie\templates\include\sidebar.html:38
+msgid "Найти"
+msgstr "Find"
+
+#: .\django_movie\templates\include\sidebar.html:43
+msgid "Рейтинг"
+msgstr "Rating"
+
+#: .\django_movie\templates\movies\actor.html:31
+msgid "Возраст:"
+msgstr "Age:"
+
+#: .\django_movie\templates\movies\actor.html:35
+msgid "Режиссер:"
+msgstr "Director:"
+
+#: .\django_movie\templates\movies\actor.html:44
+msgid "Актер:"
+msgstr "Actor:"
+
+#: .\django_movie\templates\movies\actor.html:58
+msgid "О"
+msgstr "About "
+
+#: .\django_movie\templates\movies\movie_detail.html:27
+msgid "Год: "
+msgstr "Year: "
+
+#: .\django_movie\templates\movies\movie_detail.html:28
+msgid "Страна: "
+msgstr "Country: "
+
+#: .\django_movie\templates\movies\movie_detail.html:30
+msgid "Слоган: "
+msgstr "Tagline: "
+
+#: .\django_movie\templates\movies\movie_detail.html:33
+msgid "Режиссер: "
+msgstr "Director: "
+
+#: .\django_movie\templates\movies\movie_detail.html:41
+msgid "Актеры: "
+msgstr "Actors: "
+
+#: .\django_movie\templates\movies\movie_detail.html:49
+msgid "Жанр: "
+msgstr "Genre: "
+
+#: .\django_movie\templates\movies\movie_detail.html:55
+msgid "Премьера в мире: "
+msgstr "World premiere: "
+
+#: .\django_movie\templates\movies\movie_detail.html:58
+msgid "Бюджет: "
+msgstr "Budget: "
+
+#: .\django_movie\templates\movies\movie_detail.html:60
+msgid "Сборы в США: "
+msgstr "Fees in USA: "
+
+#: .\django_movie\templates\movies\movie_detail.html:61
+msgid "Сборы в мире: "
+msgstr "Fess in world: "
+
+#: .\django_movie\templates\movies\movie_detail.html:65
+msgid "Рейтинг: "
+msgstr "Rating: "
+
+#: .\django_movie\templates\movies\movie_detail.html:116
+msgid "О фильме "
+msgstr "About the film "
+
+#: .\django_movie\templates\movies\movie_detail.html:142
+msgid "Оставить отзыв "
+msgstr "Leave feedback "
+
+#: .\django_movie\templates\movies\movie_detail.html:148
+msgid "Ваш комментарий *"
+msgstr "Your comment * "
+
+#: .\django_movie\templates\movies\movie_detail.html:156
+msgid "Имя *"
+msgstr "Name *"
+
+#: .\django_movie\templates\movies\movie_detail.html:163
+msgid "Email *"
+msgstr "Email *"
+
+#: .\django_movie\templates\movies\movie_detail.html:171
+msgid "Отправить"
+msgstr "Send"
+
+#: .\django_movie\templates\movies\movie_detail.html:187
+msgid "Ответить"
+msgstr "Reply"

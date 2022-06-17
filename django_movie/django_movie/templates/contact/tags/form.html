@@ -1,0 +1,15 @@
+{% load i18n movie_tag %}
+<h3 class="footer-title text-uppercase editContent mb-lg-4 mb-3" >
+    {% trans 'Рассылка новинок кино' %}
+</h3>
+
+    <p class="editContent">
+        {% trans 'Подписавшись на нашу email рассылку вы всегда будете в курсе новинок кино на сайте.' %}
+    </p>
+
+    <form action="{% url 'contact:contact' %}" method="post" class="w3layouts-newsletter">
+        {% csrf_token %}
+        {{ contact_form }}
+        <button class="btn1 btn" ><span class="fa fa-paper-plane-o" aria-hidden="true" ></span></button>
+
+    </form>

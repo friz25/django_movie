@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-09 19:51+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#: .\django_movie\templates\movies\movie_detail.html:27
+msgid "Год: "
+msgstr "Year: "
+
+#: .\django_movie\templates\movies\movie_detail.html:28
+msgid "Cтрана: "
+msgstr "Country: "
+
+#: .\django_movie\templates\movies\movie_detail.html:30
+msgid "Слоган: "
+msgstr "Tagline: "
+
+#: .\django_movie\templates\movies\movie_detail.html:33
+msgid "Режиссёр: "
+msgstr "Director: "
+
+#: .\django_movie\templates\movies\movie_detail.html:41
+msgid "Актёры: "
+msgstr "Actors: "
+
+#: .\django_movie\templates\movies\movie_detail.html:49
+msgid "Жанр: "
+msgstr "Genre: "
+
+#: .\django_movie\templates\movies\movie_detail.html:55
+msgid "Премьера в мире: "
+msgstr "World premiere: "
+
+#: .\django_movie\templates\movies\movie_detail.html:58
+msgid "Бюджет: "
+msgstr "Budget: "
+
+#: .\django_movie\templates\movies\movie_detail.html:60
+msgid "Сборы в США: "
+msgstr "Fees in USA: "
+
+#: .\django_movie\templates\movies\movie_detail.html:61
+msgid "Сборы в мире: "
+msgstr "Fess in world: "
+
+#: .\django_movie\templates\movies\movie_detail.html:65
+msgid "Рейтинг: "
+msgstr "Rating: "
+
+#: .\django_movie\templates\movies\movie_detail.html:116
+msgid "О фильме "
+msgstr "About the film "
+
+#: .\django_movie\templates\movies\movie_detail.html:142
+msgid "Оставить отзыв"
+msgstr "Leave feedback"
+
+#: .\django_movie\templates\movies\movie_detail.html:148
+msgid "Ваш комментарий *"
+msgstr "Your comment * "
+
+#: .\django_movie\templates\movies\movie_detail.html:156
+msgid "Имя *"
+msgstr "Name *"
+
+#: .\django_movie\templates\movies\movie_detail.html:163
+msgid "Email *"
+msgstr "Email *"
+
+#: .\django_movie\templates\movies\movie_detail.html:171
+msgid "Отправить"
+msgstr "Send"
+
+#: .\django_movie\templates\movies\movie_detail.html:187
+msgid "Ответить"
+msgstr "Reply"
