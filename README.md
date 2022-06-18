@@ -16,6 +16,7 @@ in this project were implemented:
 - authorization and registration
 - login via Vk, Gmail
 
+## Multilanguage Page Example (Full Page Screenshot)
 
 ![Logo](https://i.ibb.co/n6dTCRr/english.png)
 
