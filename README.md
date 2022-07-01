@@ -12,7 +12,7 @@ in this project were implemented:
 - pagination
 - flat pages
 - newsletter subscription
-- multilingualism
+- multilangualism
 - authorization and registration
 - login via Vk, Gmail
 
